@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TassosKarapiperis
 - 👀 I’m a Proffesional IT Administrator
-- 🌱 I’m currently learning about cloud computing and internet security
+- 🌱 I’m currently learning about AI & BiG Data,  cloud computing and internet security
 - 💞️ I’m looking to collaborate on Bussiness Networks and Security
 - 📫 How to reach me info@citynet.com.gr
 <!---
